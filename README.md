@@ -23,7 +23,7 @@ Always curious, always learning, and always pushing myself to grow in tech.
 
 ---
 
-### 📈 GitHub Stats  
+
 ### 📈 GitHub Stats  
 
 ![n1ssayx's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1ssayx&show_icons=true&theme=tokyonight)  
