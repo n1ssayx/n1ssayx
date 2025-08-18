@@ -11,7 +11,7 @@ Always curious, always learning, and always pushing myself to grow in tech.
 - 🎓 Computer Science International student with 2+ years of experience in web development  
 - 🛠️ Currently exploring **React, Node.js, and Cybersecurity**  
 - 🌍 Interested in **Cybersecurity, Ai, full-stack development, and open-source collaboration**  
-- 🎶 Fun fact: I also create **Afro House & House Music**  
+- 🎶 Fun fact: I also create **Afro House & House Remix**  
 
 ---
 
