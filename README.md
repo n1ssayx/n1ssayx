@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yassine
 
-🛡️ **IT & Cybersecurity Enthusiast | Hands-on Lab Builder | Open-Source Explorer**
+🛡️ **IT & Cybersecurity Enthusiast | Hands-on Lab Builder | Front-End Web Development**
 
 I'm focused on building practical skills in system administration, network security, and troubleshooting. Always curious, always learning, and heavily experimenting with local lab environments to understand how systems work and how to secure them.
 
@@ -8,7 +8,7 @@ I'm focused on building practical skills in system administration, network secur
 
 ### 🚀 About Me
 - 🎓 Graduate of the GoMyCode Cybersecurity Bootcamp (based on CompTIA Security+ 701)
-- 💻 Experienced with Linux (Ubuntu/Debian) and Windows/Active Directory environments
+- 💻 Experienced with Kali Linux and Windows/Active Directory environments
 - 🔬 Passionate about building simulated lab environments (VirtualBox/VMware, Metasploitable) for hands-on threat analysis and hardening
 - 🌐 Focused on laying the groundwork for remote IT & cybersecurity support
 - 🎵 Fun fact: I also create Afro House & House Remixes
