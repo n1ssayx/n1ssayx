@@ -1,25 +1,26 @@
-# Hi there 👋 Im Yassine  
+### Hi there 👋 I'm Yassine
 
-💻 **Web Developer | International Student | Open-Source Enthusiast**  
+🛡️ **IT & Cybersecurity Enthusiast | Hands-on Lab Builder | Open-Source Explorer**
 
-I’m passionate about **building digital experiences** that are simple, fast, and user-friendly.  
-Always curious, always learning, and always pushing myself to grow in tech.  
-
----
-
-### 🚀 About Me  
-- 🎓 Computer Science International student with 2+ years of experience in web development  
-- 🛠️ Currently exploring **React, Node.js, and Cybersecurity**  
-- 🌍 Interested in **Cybersecurity, Ai, full-stack development, and open-source collaboration**  
-- 🎶 Fun fact: I also create **Afro House & House Remix**  
+I'm focused on building practical skills in system administration, network security, and troubleshooting. Always curious, always learning, and heavily experimenting with local lab environments to understand how systems work and how to secure them.
 
 ---
 
-### 🧰 Tech Stack  
-- **Languages:** HTML, CSS, JavaScript  
-- **Frontend:** React (learning),
-- **Backend:** Node.js (learning),
-- **Other Interests:** Cybersecurity and AI  
+### 🚀 About Me
+- 🎓 Graduate of the GoMyCode Cybersecurity Bootcamp (based on CompTIA Security+ 701)
+- 💻 Experienced with Linux (Ubuntu/Debian) and Windows/Active Directory environments
+- 🔬 Passionate about building simulated lab environments (VirtualBox/VMware, Metasploitable) for hands-on threat analysis and hardening
+- 🌐 Focused on laying the groundwork for remote IT & cybersecurity support
+- 🎵 Fun fact: I also create Afro House & House Remixes
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows Server & Client
+- **Networking & Protocols:** TCP/IP, DNS, DHCP, Subnetting, Wireshark
+- **Security & Hardening:** System hardening, basic vulnerability scanning, log analysis
+- **Lab Tools:** VirtualBox, VMware, Metasploitable 2, Nmap
+- **Scripting & Automation:** Python (automation, file/PDF manipulation)
 
 ---
 
